@@ -6,8 +6,8 @@ from pubnub.pnconfiguration import PNConfiguration
 from pubnub.callbacks import SubscribeCallback
 
 
-PUBLISH_KEY = "pub-c-9945ed65-7b19-42c8-860b-c5a3bb0a63d2"
-SUBSCRIBE_KEY = "sub-c-cbe6e2f6-aa37-11ea-baa3-a65cc700836a"
+PUBLISH_KEY = "your publish key"
+SUBSCRIBE_KEY = "your subscribe key"
 CHANNELS = {
     "FOO": "FOO",
     "BLOCK": "BLOCK"
